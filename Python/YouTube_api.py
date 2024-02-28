@@ -20,7 +20,7 @@ def main():
 
     api_service_name = "youtube"
     api_version = "v3"
-    client_secrets_file = "AIzaSyB_gUjzz5lntp9dqljGgXUWD61KRYZt0pU.json"
+    client_secrets_file = "------------"
 
     
     # Get credentials and create an API client
